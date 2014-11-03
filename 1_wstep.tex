@@ -1,0 +1,51 @@
+\chapter{Wstęp}
+\iffalse
+Praca MUSI stanowić samodzielne opracowanie przez dyplomanta WYBRANEGO TEMATU BADAWCZEGO pod kierunkiem promotora. Temat i~zakres pracy powinien wiązać się ze specjalnością, na której studiuje dyplomant. Orientacyjna objętość pracy inżynierskiej / licencjackiej (I-go stopnia) to 50-80 stron, zaś pracy magisterskiej (II-go stopnia) -- 70-120 stron\footnote{Przy tworzeniu niniejszego szablonu wykorzystano fragmenty \cite{Nie10}}.
+
+Wstęp rozprawy powinien jasno określać tematykę i~zakres podejmowanego problemu, np: \textit{Niniejsza praca dotyczy (inżynierii oprogramowania / sieci komputerowych / grafiki komputerowej / sztucznej inteligencji / algorytmów ewolucyjnych / technologii baz danych)... } Należy wskazać dlaczego dana tematyka została podjęta. Czy rozwiązania istniejące w~danej dziedzinie nie są wystarczające? Czy problem można rozwiązać inaczej? Czy podejmowany problem jest aktywnym tematem badawczym? Przed jakimi wyzwaniami stoi osoba podejmująca tematykę? Na tym etapie należy jedynie zarysować problem w~sposób ogólny -- na szczegółowe opisy będzie miejsce dalej.
+\fi
+Temat mojej pracy obejmować będzie dziedziny nauki takie jak inżynieria oprogramowania, przetwarzanie obrazu oraz sztuczna inteligencja, ze szczególnym naciskiem na tytularne sieci neuronowe. W przypadku inżynierii oprogramowania przedstawiony będzie proces powstawania kilku aplikacji pobocznych oraz finalnej w~jednej z~technologii dla urządzeń mobilnych, która ma być wykorzystana do rozpoznawania znaków języka japońskiego wprowadzonych przez użytkownika. Elementy przetwarzania obrazu pojawią się głównie w~przypadku obróbki danych w~postaci graficznej, potrzebnych w~dalszych krokach do przeprowadzenia poprawnego rozpoznania. Natomiast sztuczna inteligencja będzie szczególnie zauważalna w~części badawczej, gdyż wszelkie wyniki będą zależeć od poprawności i~rodzaju wykorzystanych algorytmów typowych dla tejże dziedziny nauki.
+
+Wybór tematyki został podyktowany głównie rosnącym zainteresowaniem dla wykorzystania sztucznej inteligencji w~różnorodnych procesach rozpoznawania, gdzie użycie zwykłych algorytmów spoza tej specyficznej dziedziny nauki nie jest już wystarczające, gdyż daje niedostateczne wyniki. Natomiast badania w~dziedzinie sztucznej inteligencji przynoszą ciągle nowe i coraz bardziej obiecujące rezultaty, niejednokrotnie z~możliwością ich zastosowania w~rozwiązaniach końcowych. Z~drugiej strony w~ostatnim czasie znacznie rozszerzyły się możliwości wykorzystania złożonych algorytmów obliczeniowych na wcześniej wspomnianych urządzeniach mobilnych. Ich moc obliczeniowa szczególnie w~charakterze operacji czysto matematycznych przeprowadzanych na jednostkach obliczeniowych (ang. Central Processing Unit, CPU) uległa znacznemu wzrostowi i~wielu przypadkach niemal dorównuje mniej zaawansowanym komputerom.
+Obecnie znane są już aplikacje służące do rozpoznawania znaków, również tych języka japońskiego, jednak brakuje zastosowania w~tym przypadku proponowanych przeze mnie sieci neuronowych. Idea ich wykorzystania skupia się na osiągnięciu możliwie najwyższego stopnia rozpoznania przy jednoczesnym umożliwieniu tolerancji na drobne błędy występujące przy wprowadzaniu znaku przez użytkownika. Osiągniecie tego celu będzie głównym priorytetem w~części badawczej, gdzie zostaną podjęte próby zastosowania różnych algorytmów nauki sieci neuronowych oraz ich parametryzacja, która jest zwykle kluczowym krokiem na drodze do uzyskania zadowalających wyników. 
+
+
+\section{Cele pracy}\label{sec:cele_pracy}
+Na podstawie przeglądu tematu stawiam następujące cele pracy:
+
+\begin{itemize}
+ \item Stworzenie zestawu aplikacji, począwszy od pomagającej w~zbieraniu danych, poprzez przeprowadzającą proces uczenia aż do aplikacji finalnej gdzie dochodzi do rozpoznania znaków wprowadzanych przez użytkownika
+ \item Wykazanie skuteczności poszczególnych architektur oraz wybranych algorytmów nauki sieci neuronowych
+ \item Wykorzystanie technologii mobilnych przy akwizycji danych oraz podczas ostatecznego procesu rozpoznawania
+\end{itemize}
+
+
+\section{Przegląd literatury oraz uzasadnienie wyboru tematu}
+
+W tym podrozdziale należy szczegółowo uzasadnić dlaczego wybrany został taki a~nie inny temat pracy. Trzeba przede wszystkim zaprezentować aktualny stan wiedzy w~danej dziedzinie. Oznacza to konieczność omówienia książek (ew. artykułów naukowych bądź dokumentacji technicznej) z~których będzie się korzystać w~trakcie rozprawy. Następnie należy wskazać -- tym razem już konkretnie -- co nowego zamierza się zrobić. Podstawowymi celami tego podrozdziału jest wprowadzenie czytelnika w~aktualny stand danej dziedziny i~przekonanie go, że naprawdę warto zajmować się podjętym tematem.
+
+{\color{red} Tutaj niestety będę potrzebował więcej czasu aby odświeżyć znajomość literatury, gdyż przez ten okres czasu przestałem być na bieżąco.}
+
+\section{Układ pracy}
+\iffalse
+{\color{red} Tutaj należy zamieścić opis dalszej zawartości pracy.}
+
+Struktura dalszej części szablonu jest następująca: Rozdział \ref{chap:teoria} zawiera opis teorii ... Rozdział \ref{chap:nowa_teoria} przedstawia nową teorię wprowadzoną przez autora pracy ... Rozdział \ref{chap:narzedzia} opisuje technologie i~narzędzia wykorzystane w~pracy ...  Rozdział \ref{chap:badania} przedstawia wyniki badań / opis stworzonej aplikacji ... Rozdział \ref{chap:podsumowanie} podsumowuje uzyskane wyniki oraz płynące z~nich wnioski ... W~Dodatku \ref{app:edycja} zawarto uwagi dotyczące formatowania pracy z~użyciem systemu \LaTeX. Dodatek \ref{app:plyta} zawiera płytę CD z~aplikacją stworzoną w~ramach pracy...
+\fi
+W dalszej części pracy pojawią się następujące rozdziały:
+\begin {itemize}
+\item \textbf{Rozdział \ref{chap:teoria}}: Część teoretyczna\\
+Zawiera wprowadzenie teoretyczne do poruszanych w pracy tematów.
+\begin {itemize}
+\item \textbf{Podrozdział \ref{sec:sieci}}: Wprowadzenie do tematyki sieci neuronowych
+\item \textbf{Podrozdział \ref{sec:grafika}}: Wykorzystywane operacje graficzne
+\end{itemize}
+\item \textbf{Rozdział \ref{chap:narzedzia}}: Technologie i~narzędzia\\
+Opisuje technologie i~narzędzia wykorzystane w procesie tworzenia aplikacji jako podłoża dla części badawczej pracy.
+\item \textbf{Rozdział \ref{chap:badania}}: Wyniki badań eksperymentalnych\\
+Przedstawia opis stworzonych aplikacji oraz wyniki badań na nich opartych.
+\item \textbf{Rozdział \ref{chap:podsumowanie}}: Podsumowanie i~wnioski\\
+Podsumowuje uzyskane wyniki oraz płynące z~nich wnioski.
+\item \textbf{Dodatek \ref{app:plyta}}: Płyta CD\\
+Zawiera płytę CD z~aplikacjami stworzonymi w~ramach pracy.
+\end{itemize}
