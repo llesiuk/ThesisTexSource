@@ -1,3 +1,19 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{Oso06}
+
+
+\bibitem{java}
+Dokumentacja java.
+\newblock \url{http://docs.oracle.com/javase/7/docs/}.
+
+\bibitem{android}
+Środowisko android.
+\newblock \url{http://developer.android.com/}.
+
+\bibitem{Tad93}
+R.~Tadeusiewicz.
+\newblock Sieci neuronowe.
+\newblock \url{http://winntbg.bg.agh.edu.pl/skrypty/0001/0001.pdf}, 1993.
 
 \end{thebibliography}

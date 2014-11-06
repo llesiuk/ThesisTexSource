@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.29)  2 NOV 2014 23:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.29)  6 NOV 2014 21:56
 entering extended mode
-**C:/Users/user/Desktop/LaTeX/szablon_pracy_dyplomowej/praca_dyplomowa.tex
-(C:/Users/user/Desktop/LaTeX/szablon_pracy_dyplomowej/praca_dyplomowa.tex
+**C:/Users/user/Desktop/LaTeX/praca_dyplomowa/trunk/praca_dyplomowa.tex
+(C:/Users/user/Desktop/LaTeX/praca_dyplomowa/trunk/praca_dyplomowa.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -31,7 +31,7 @@ File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\praca_dyplomowa.sty
+(C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\praca_dyplomowa.sty
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\polski\polski.sty"
 Package: polski 2008/02/24 v1.3.3 Polish language package
 
@@ -440,7 +440,7 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 \f@ncyO@olf=\skip56
 \f@ncyO@orf=\skip57
 ))
-(C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\praca_dyplomowa.aux)
+(C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\praca_dyplomowa.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
@@ -469,7 +469,7 @@ LaTeX Font Info:    ... okay on input line 8.
 \MPnumerator=\count105
 \makeMPintoPDFobject=\count106
 \everyMPtoPDFconversion=\toks29
-) (C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\0_strona_tytulowa.tex
+) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\0_strona_tytulowa.tex
 LaTeX Font Info:    Try loading font information for OML+plm on input line 19.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\polski\omlplm.fd"
@@ -509,12 +509,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]) [2
 
 ]
-(C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\praca_dyplomowa.toc)
+(C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\praca_dyplomowa.toc)
 \tf@toc=\write3
 
 [3] [4
 
-] (C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\1_wstep.tex
+] (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\1_wstep.tex
 Rozdzia\PlPrIeC {\l } 1.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -529,39 +529,44 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
- [2])
-(C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\2_teoria.tex [3] [4
-
-]
+ [2] [3])
+(C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\2_teoria.tex [4]
 Rozdzia\PlPrIeC {\l } 2.
 
 Overfull \hbox (9.5515pt too wide) in paragraph at lines 4--4
 []\OT4/cmr/bx/n/17.28 Wprowadzenie do te-ma-ty-ki sie-ci neu-ro-no-wych 
  []
 
-) (C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\4_narzedzia.tex
-[5] [6
+) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\4_narzedzia.tex [5
+
+]
+[6
 
 ]
 Rozdzia\PlPrIeC {\l } 3.
-) (C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\5_badania.tex [7]
-[8
+) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\5_badania.tex [7] [8
 
 ]
 Rozdzia\PlPrIeC {\l } 4.
-) (C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\6_podsumowanie.tex
+) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\6_podsumowanie.tex
 [9] [10
 
 ]
 Rozdzia\PlPrIeC {\l } 5.
-) (C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\praca_dyplomowa.bbl
+) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\praca_dyplomowa.bbl
 [11] [12
 
 ]
+LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 8.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\polski\ot4cmtt.fd"
+File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+Underfull \hbox (badness 1748) in paragraph at lines 15--18
+[]\OT4/cmr/m/n/12 R. Ta-deu-sie-wicz.  Sie-ci neu-ro-no-we.  $\OT4/cmtt/m/n/12 
+http : / / winntbg . bg . agh . edu . pl /$
+ []
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) (C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\b_cd.tex [13] [14
+) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\b_cd.tex [13] [14
 
 ]
 Dodatek A.
@@ -569,26 +574,28 @@ Dodatek A.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15])
-[16] (C:\Users\user\Desktop\LaTeX\szablon_pracy_dyplomowej\praca_dyplomowa.aux)
- ) 
+[16] (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\praca_dyplomowa.aux) ) 
 Here is how much of TeX's memory you used:
- 2914 strings out of 493921
- 37306 string characters out of 3144878
- 90670 words of memory out of 3000000
- 6126 multiletter control sequences out of 15000+200000
- 13709 words of font info for 41 fonts, out of 3000000 for 9000
+ 2939 strings out of 493921
+ 37650 string characters out of 3144878
+ 95682 words of memory out of 3000000
+ 6147 multiletter control sequences out of 15000+200000
+ 14006 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 34i,11n,45p,1031b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/pl/plit.enc}{C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/pl/plbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/public/pl/plr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/p
-l/plr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plsl12.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plti12.pfb>
-Output written on praca_dyplomowa.pdf (20 pages, 83302 bytes).
+ 34i,11n,45p,2641b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
+{
+C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/pl/pltt.enc}{C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/enc/dvips/pl/plit.enc}{C:/Program Files (x86)/MiKTeX 2.
+9/fonts/enc/dvips/pl/plrm.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/pl/plbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plr12
+.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plr17.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plsl12.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/pl/plti12.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/pl/pltt12.pfb>
+Output written on praca_dyplomowa.pdf (20 pages, 95866 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
