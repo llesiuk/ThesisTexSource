@@ -1,8 +1,5 @@
 \begin{thebibliography}{1}
 
-\bibitem{Oso06}
-
-
 \bibitem{java}
 Dokumentacja java.
 \newblock \url{http://docs.oracle.com/javase/7/docs/}.
@@ -11,9 +8,43 @@ Dokumentacja java.
 Środowisko android.
 \newblock \url{http://developer.android.com/}.
 
+\bibitem{Cru06}
+H.~Cruse.
+\newblock Neural networks as cybernetic systems.
+\newblock \url{http://www.brains-minds-media.org/archive/bmm615}, 2006.
+
+\bibitem{Kri07}
+D.~Kriesel.
+\newblock A brief introduction to neural networks.
+\newblock
+  \url{http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf},
+  2007.
+
+\bibitem{Oso06}
+S.~Osowski.
+\newblock Sieci neuronowe do przetwarzania informacji.
+\newblock Oficyna Wydawnicza Politechniki Warszawskiej, 2006.
+
+\bibitem{Roj96}
+R.~Rojas.
+\newblock Neural networks. a systematic introduction.
+\newblock
+  \url{http://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/1996/NeuralNetworks/neuron.pdf},
+  1996.
+
+\bibitem{Shi10}
+F.~Y. Shih.
+\newblock Image processing and pattern recognition. fundamentals and techiques.
+\newblock John Wiley and Sons Inc., 2010.
+
 \bibitem{Tad93}
 R.~Tadeusiewicz.
 \newblock Sieci neuronowe.
 \newblock \url{http://winntbg.bg.agh.edu.pl/skrypty/0001/0001.pdf}, 1993.
+
+\bibitem{KaS96}
+B.~Krose~P. van~der Smagt.
+\newblock An introduction to neural networks.
+\newblock University of Amsterdam, 1996.
 
 \end{thebibliography}

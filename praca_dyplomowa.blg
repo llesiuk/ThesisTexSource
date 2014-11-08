@@ -1,15 +1,10 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: praca_dyplomowa.aux
 The style file: plplain.bst
 Database file #1: bibliografia.bib
-You're missing a field part---line 9 of file bibliografia.bib
- :  title = 
- :          ''Sieci neuronowe do przetwarzania informacji''
-I'm skipping whatever remains of this entry
 Warning--entry type for "android" isn't style-file defined
---line 37 of file bibliografia.bib
+--line 57 of file bibliografia.bib
 Warning--entry type for "java" isn't style-file defined
---line 42 of file bibliografia.bib
+--line 62 of file bibliografia.bib
 Warning--to sort, need author or key in java
 Warning--to sort, need author or key in android
-Warning--to sort, need author or key in Oso06
-(There was 1 error message)
+(There were 4 warnings)

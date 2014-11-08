@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.29)  6 NOV 2014 21:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.29)  8 NOV 2014 23:17
 entering extended mode
 **C:/Users/user/Desktop/LaTeX/praca_dyplomowa/trunk/praca_dyplomowa.tex
 (C:/Users/user/Desktop/LaTeX/praca_dyplomowa/trunk/praca_dyplomowa.tex
@@ -529,60 +529,88 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
- [2] [3])
-(C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\2_teoria.tex [4]
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+[4]) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\2_teoria.tex [5]
+[6
+
+]
 Rozdzia\PlPrIeC {\l } 2.
 
 Overfull \hbox (9.5515pt too wide) in paragraph at lines 4--4
 []\OT4/cmr/bx/n/17.28 Wprowadzenie do te-ma-ty-ki sie-ci neu-ro-no-wych 
  []
 
-) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\4_narzedzia.tex [5
-
-]
-[6
+) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\4_narzedzia.tex [7]
+[8
 
 ]
 Rozdzia\PlPrIeC {\l } 3.
-) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\5_badania.tex [7] [8
+) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\5_badania.tex [9] [10
 
 ]
 Rozdzia\PlPrIeC {\l } 4.
 ) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\6_podsumowanie.tex
-[9] [10
+[11] [12
 
 ]
 Rozdzia\PlPrIeC {\l } 5.
 ) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\praca_dyplomowa.bbl
-[11] [12
+[13] [14
 
 ]
-LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 8.
+LaTeX Font Info:    Try loading font information for OT4+cmtt on input line 5.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\polski\ot4cmtt.fd"
 File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-Underfull \hbox (badness 1748) in paragraph at lines 15--18
+Underfull \hbox (badness 3792) in paragraph at lines 12--15
+[]\OT4/cmr/m/n/12 H. Cru-se.  Neu-ral ne-tworks as cy-ber-ne-tic sys-tems.  $\O
+T4/cmtt/m/n/12 http : / / www .$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--22
+$\OT4/cmtt/m/n/12 com / _media / science / neuronalenetze-[]en-[]zeta2-[]2col-[
+]dkrieselcom . pdf$\OT4/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 29--34
+[]\OT4/cmr/m/n/12 R. Ro-jas.  Neu-ral ne-tworks. a sys-te-ma-tic in-tro-duc-tio
+n.  $\OT4/cmtt/m/n/12 http :$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+$\OT4/cmtt/m/n/12 / / www . inf . fu-[]berlin . de / inst / ag-[]ki / rojas _ h
+ome / documents / 1996 /$
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 41--44
 []\OT4/cmr/m/n/12 R. Ta-deu-sie-wicz.  Sie-ci neu-ro-no-we.  $\OT4/cmtt/m/n/12 
 http : / / winntbg . bg . agh . edu . pl /$
  []
 
-) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\b_cd.tex [13] [14
+) (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\b_cd.tex [15] [16
 
 ]
 Dodatek A.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15])
-[16] (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\praca_dyplomowa.aux) ) 
+ [17])
+[18] (C:\Users\user\Desktop\LaTeX\praca_dyplomowa\trunk\praca_dyplomowa.aux) ) 
 Here is how much of TeX's memory you used:
- 2939 strings out of 493921
- 37650 string characters out of 3144878
- 95682 words of memory out of 3000000
- 6147 multiletter control sequences out of 15000+200000
+ 2945 strings out of 493921
+ 37693 string characters out of 3144878
+ 107698 words of memory out of 3000000
+ 6153 multiletter control sequences out of 15000+200000
  14006 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 34i,11n,45p,2641b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,11n,45p,4588b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
 {
 C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/pl/pltt.enc}{C:/Program Files
  (x86)/MiKTeX 2.9/fonts/enc/dvips/pl/plit.enc}{C:/Program Files (x86)/MiKTeX 2.
@@ -593,9 +621,9 @@ ic/pl/plbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plr12
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/pl/plsl12.pfb><C:/Program Files 
 (x86)/MiKTeX 2.9/fonts/type1/public/pl/plti12.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/pl/pltt12.pfb>
-Output written on praca_dyplomowa.pdf (20 pages, 95866 bytes).
+Output written on praca_dyplomowa.pdf (22 pages, 102968 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
